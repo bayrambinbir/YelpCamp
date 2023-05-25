@@ -1,2 +1,2 @@
 # YelpCamp
-YelpCamp project is from my Udemy couse. Author is Colt Steele
+YelpCamp project is from my Udemy course. Author is Colt Steele
